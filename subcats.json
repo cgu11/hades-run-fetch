@@ -1,0 +1,22 @@
+{"data":{
+    "major_version": {
+        "id": "7896gj58",
+        "values": {
+            "v1.37+": "5lezxr5l"
+        }
+    },
+    "modded": {
+        "id": "9l7xez7n",
+        "values": {
+            "unmodded": "814ppek1",
+            "modded": "z19kkg4q"
+        }
+    },
+    "seeded": {
+        "id": "kn0jq60l",
+        "values": {
+            "unseeded": "810jogwl",
+            "seeded": "9qjn6ve1"
+        }
+    }
+}}
